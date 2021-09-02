@@ -16,13 +16,10 @@ const App = () => {
   }, [query]);
 
   const handleOnChange = (e) => {
-    console.log(e.target.value);
     setQuery(e.target.value);
   };
 
   const handleSort = (field) => {
-    console.log(field);
-    console.log(!toggle);
     setToggle(!toggle);
     const sortedResults = results.sort((a, b) => {
       if (a[field] < b[field]) {
