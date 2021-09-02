@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Acadia",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bass_harbor_head_light_20041002_123635_1.1504x1000.jpg/200px-Bass_harbor_head_light_20041002_123635_1.1504x1000.jpg",
+    "location": "Maine",
+    "dateFounded": "1919-02-26",
+    "area": 49075.26,
+    "visitors": 3509271
+  },
+  {
+    "name": "American Samoa",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ofu_Beach_NPS.jpg/200px-Ofu_Beach_NPS.jpg",
+    "location": "American Samoa",
+    "dateFounded": "1988-10-31",
+    "area": 8256.67,
+    "visitors": 69468
+  },
+  {
+    "name": "Arches",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Delicatearch1.jpg/200px-Delicatearch1.jpg",
+    "location": "Utah",
+    "dateFounded": "1971-11-12",
+    "area": 76678.98,
+    "visitors": 1539028
+  },
+  {
+    "name": "Badlands",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BadlandsView3.jpg/200px-BadlandsView3.jpg",
+    "location": "South Dakota",
+    "dateFounded": "1978-11-10",
+    "area": 242755.94,
+    "visitors": 1054325
+  },
+  {
+    "name": "Big Bend",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Bend_National_Park_PB112573.jpg/200px-Big_Bend_National_Park_PB112573.jpg",
+    "location": "Texas",
+    "dateFounded": "1944-06-12",
+    "area": 801163.21,
+    "visitors": 440276
+  },
+  {
+    "name": "Biscayne",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Biscayne_NP_snorkeling.jpg/200px-Biscayne_NP_snorkeling.jpg",
+    "location": "Florida",
+    "dateFounded": "1980-06-28",
+    "area": 172971.11,
+    "visitors": 446961
+  },
+  {
+    "name": "Black Canyon of the Gunnison",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Black_canyon_gunnison_Colorado.jpg/200px-Black_canyon_gunnison_Colorado.jpg",
+    "location": "Colorado",
+    "dateFounded": "1999-10-21",
+    "area": 30780.76,
+    "visitors": 307143
+  },
+  {
+    "name": "Bryce Canyon",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bryce_Canyon_Hoodoos_Amphitheater.jpg/200px-Bryce_Canyon_Hoodoos_Amphitheater.jpg",
+    "location": "Utah",
+    "dateFounded": "1928-02-25",
+    "area": 35835.08,
+    "visitors": 2571684
+  },
+  {
+    "name": "Canyonlands",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Canyonlands_Needles.jpg/200px-Canyonlands_Needles.jpg",
+    "location": "Utah",
+    "dateFounded": "1964-09-12",
+    "area": 337597.83,
+    "visitors": 742271
+  },
+  {
+    "name": "Capitol Reef",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cassidy_Arch%2C_Capitol_Reef_National_Park.JPG/200px-Cassidy_Arch%2C_Capitol_Reef_National_Park.JPG",
+    "location": "Utah",
+    "dateFounded": "1971-12-18",
+    "area": 241904.5,
+    "visitors": 1150165
+  },
+  {
+    "name": "Carlsbad Caverns",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Carlsbad_Interior_Formations.jpg/200px-Carlsbad_Interior_Formations.jpg",
+    "location": "New Mexico",
+    "dateFounded": "1930-05-14",
+    "area": 46766.45,
+    "visitors": 520026
+  },
+  {
+    "name": "Channel Islands",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Channel_Islands_National_Park.jpg/200px-Channel_Islands_National_Park.jpg",
+    "location": "California",
+    "dateFounded": "1980-03-05",
+    "area": 249561,
+    "visitors": 383687
+  },
+  {
+    "name": "Congaree",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Congaree_swamp.jpg/200px-Congaree_swamp.jpg",
+    "location": "South Carolina",
+    "dateFounded": "2003-11-10",
+    "area": 26539.22,
+    "visitors": 159595
+  },
+  {
+    "name": "Crater Lake",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crater_lake_oregon.jpg/200px-Crater_lake_oregon.jpg",
+    "location": "Oregon",
+    "dateFounded": "1902-05-22",
+    "area": 183224.05,
+    "visitors": 711749
+  },
+  {
+    "name": "Cuyahoga Valley",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cuyahoga_Valley_National_Park_03.jpg/200px-Cuyahoga_Valley_National_Park_03.jpg",
+    "location": "Ohio",
+    "dateFounded": "2000-10-11",
+    "area": 32572.35,
+    "visitors": 2226879
+  },
+  {
+    "name": "Death Valley",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mesquite_Sand_Dunes_in_Death_Valley.jpg/200px-Mesquite_Sand_Dunes_in_Death_Valley.jpg",
+    "location": "California, Nevada",
+    "dateFounded": "1994-10-31",
+    "area": 3373063.14,
+    "visitors": 1294827
+  },
+  {
+    "name": "Denali",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mount_McKinley_and_Denali_National_Park_Road_2048px.jpg/200px-Mount_McKinley_and_Denali_National_Park_Road_2048px.jpg",
+    "location": "Alaska",
+    "dateFounded": "1917-02-26",
+    "area": 4740911.16,
+    "visitors": 642809
+  },
+  {
+    "name": "Dry Tortugas",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fort-Jefferson_Dry-Tortugas.jpg/200px-Fort-Jefferson_Dry-Tortugas.jpg",
+    "location": "Florida",
+    "dateFounded": "1992-10-26",
+    "area": 64701.22,
+    "visitors": 54281
+  },
+  {
+    "name": "Everglades",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Everglades_National_Park_cypress.jpg/200px-Everglades_National_Park_cypress.jpg",
+    "location": "Florida",
+    "dateFounded": "1934-05-30",
+    "area": 1508934.25,
+    "visitors": 1018557
+  },
+  {
+    "name": "Gates of the Arctic",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GatesofArctic.jpg/200px-GatesofArctic.jpg",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 7523897.45,
+    "visitors": 11177
+  },
+  {
+    "name": "Gateway Arch",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St_Louis_night_expblend.jpg/200px-St_Louis_night_expblend.jpg",
+    "location": "Missouri",
+    "dateFounded": "2018-02-22",
+    "area": 192.83,
+    "visitors": 1398188
+  },
+  {
+    "name": "Glacier",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/St_Mary_Lake_-_Wild_goose_Island.jpg/200px-St_Mary_Lake_-_Wild_goose_Island.jpg",
+    "location": "Montana",
+    "dateFounded": "1910-05-11",
+    "area": 1013125.99,
+    "visitors": 3305512
+  },
+  {
+    "name": "Glacier Bay",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GlacierBay3.jpg/200px-GlacierBay3.jpg",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 3223383.43,
+    "visitors": 547057
+  },
+  {
+    "name": "Grand Canyon",
+    "photo": "https://en.wikipedia.org/wiki/File:USA_09847_Grand_Canyon_Luca_Galuzzi_2007.jpg",
+    "location": "Arizona",
+    "dateFounded": "1919-02-26",
+    "area": 1201647.03,
+    "visitors": 6254238
+  },
+  {
+    "name": "Grand Teton",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Teton_Range_from_Glacier_View_Turnout-closeup.JPG/200px-Teton_Range_from_Glacier_View_Turnout-closeup.JPG",
+    "location": "Wyoming",
+    "dateFounded": "1929-02-26",
+    "area": 310044.22,
+    "visitors": 3317000
+  },
+  {
+    "name": "Great Basin",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Prometheus_Wheeler.jpg/200px-Prometheus_Wheeler.jpg",
+    "location": "Nevada",
+    "dateFounded": "1986-10-27",
+    "area": 77180,
+    "visitors": 168028
+  },
+  {
+    "name": "Great Sand Dunes",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Coloradodunes.jpg/200px-Coloradodunes.jpg",
+    "location": "Colorado",
+    "dateFounded": "2004-09-13",
+    "area": 107341.87,
+    "visitors": 486935
+  },
+  {
+    "name": "Great Smoky Mountains",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fall_at_Oconaluftee_Overlook.JPG/200px-Fall_at_Oconaluftee_Overlook.JPG",
+    "location": "Tennessee, North Carolina",
+    "dateFounded": "1934-06-15",
+    "area": 522426.88,
+    "visitors": 11338893
+  },
+  {
+    "name": "Guadalupe Mountains",
+    "photo": "https://en.wikipedia.org/wiki/File:West_face_of_Guadalupe_Mountains_at_sunset_2006.jpg",
+    "location": "Texas",
+    "dateFounded": "1966-10-15",
+    "area": 86367.1,
+    "visitors": 225257
+  },
+  {
+    "name": "Haleakalā",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haleakala_Crater.jpg/200px-Haleakala_Crater.jpg",
+    "location": "Hawaii",
+    "dateFounded": "1916-08-01",
+    "area": 33264.62,
+    "visitors": 1112390
+  },
+  {
+    "name": "Hawaiʻi Volcanoes",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Puu_Oo_cropped.jpg/200px-Puu_Oo_cropped.jpg",
+    "location": "Hawaii",
+    "dateFounded": "1916-08-01",
+    "area": 323431.38,
+    "visitors": 2016702
+  },
+  {
+    "name": "Hot Springs",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hots_Springs_National_Park_aerial.jpg/200px-Hots_Springs_National_Park_aerial.jpg",
+    "location": "Arkansas",
+    "dateFounded": "1921-03-04",
+    "area": 5548.01,
+    "visitors": 1561616
+  },
+  {
+    "name": "Isle Royale",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/IsleRoyalePlane.jpg/200px-IsleRoyalePlane.jpg",
+    "location": "Michigan",
+    "dateFounded": "1940-04-03",
+    "area": 571790.3,
+    "visitors": 28196
+  },
+  {
+    "name": "Joshua Tree",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Joshua_Tree_-_Rock_formation_in_Real_Hidden_Valley_1.jpg/200px-Joshua_Tree_-_Rock_formation_in_Real_Hidden_Valley_1.jpg",
+    "location": "California",
+    "dateFounded": "1994-10-31",
+    "area": 790635.74,
+    "visitors": 2853619
+  },
+  {
+    "name": "Katmai",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brown_bears_brooks_falls.jpg/200px-Brown_bears_brooks_falls.jpg",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 3674529.33,
+    "visitors": 37818
+  },
+  {
+    "name": "Kenai Fjords",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exit_Glacier_Jul09.JPG/200px-Exit_Glacier_Jul09.JPG",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 669650.05,
+    "visitors": 303598
+  },
+  {
+    "name": "Kings Canyon",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/KingsCanyonNP.JPG/200px-KingsCanyonNP.JPG",
+    "location": "California",
+    "dateFounded": "1940-03-04",
+    "area": 461901.2,
+    "visitors": 692932
+  },
+  {
+    "name": "Kobuk Valley",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Agie_River.jpg/200px-Agie_River.jpg",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 1750716.16,
+    "visitors": 15500
+  },
+  {
+    "name": "Lake Clark",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lake_Clark_National_Park.jpg/200px-Lake_Clark_National_Park.jpg",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 2619816.49,
+    "visitors": 22755
+  },
+  {
+    "name": "Lassen Volcanic",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lassen_Peak_from_the_summit_of_Brokeoff_Mountain-1200px.jpg/200px-Lassen_Peak_from_the_summit_of_Brokeoff_Mountain-1200px.jpg",
+    "location": "California",
+    "dateFounded": "1916-08-09",
+    "area": 106589.02,
+    "visitors": 507256
+  },
+  {
+    "name": "Mammoth Cave",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mammoth_Cave_National_Park_007.jpg/200px-Mammoth_Cave_National_Park_007.jpg",
+    "location": "Kentucky",
+    "dateFounded": "1941-07-01",
+    "area": 54011.91,
+    "visitors": 587853
+  },
+  {
+    "name": "Mesa Verde",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mesa_Verde_National_Park_Cliff_Palace_Right_Part_2006_09_12.jpg/200px-Mesa_Verde_National_Park_Cliff_Palace_Right_Part_2006_09_12.jpg",
+    "location": "Colorado",
+    "dateFounded": "1906-06-29",
+    "area": 52485.17,
+    "visitors": 613788
+  },
+  {
+    "name": "Mount Rainier",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mount_Rainier_from_west.jpg/200px-Mount_Rainier_from_west.jpg",
+    "location": "Washington",
+    "dateFounded": "1899-03-02",
+    "area": 236381.64,
+    "visitors": 1415867
+  },
+  {
+    "name": "North Cascades",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cascade_pass.jpg/200px-Cascade_pass.jpg",
+    "location": "Washington",
+    "dateFounded": "1968-10-02",
+    "area": 504780.94,
+    "visitors": 30326
+  },
+  {
+    "name": "Olympic",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Acer_macrophyllum_in_Hoh_Rain_Forest.jpg/200px-Acer_macrophyllum_in_Hoh_Rain_Forest.jpg",
+    "location": "Washington",
+    "dateFounded": "1938-06-29",
+    "area": 922649.41,
+    "visitors": 3401996
+  },
+  {
+    "name": "Petrified Forest",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/PAINTED_DESERT_BADLANDS.jpg/200px-PAINTED_DESERT_BADLANDS.jpg",
+    "location": "Arizona",
+    "dateFounded": "1962-12-09",
+    "area": 221390.21,
+    "visitors": 627757
+  },
+  {
+    "name": "Pinnacles",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pinnacles_National_Park.jpg/200px-Pinnacles_National_Park.jpg",
+    "location": "California",
+    "dateFounded": "2013-01-10",
+    "area": 26685.73,
+    "visitors": 233334
+  },
+  {
+    "name": "Redwood",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Redwood_National_Park%2C_fog_in_the_forest.jpg/200px-Redwood_National_Park%2C_fog_in_the_forest.jpg",
+    "location": "California",
+    "dateFounded": "1968-10-02",
+    "area": 138999.37,
+    "visitors": 445000
+  },
+  {
+    "name": "Rocky Mountain",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bierstadt_Lake%2C_Rocky_Mountain_National_Park%2C_USA.jpg/200px-Bierstadt_Lake%2C_Rocky_Mountain_National_Park%2C_USA.jpg",
+    "location": "Colorado",
+    "dateFounded": "1915-01-26",
+    "area": 265795.2,
+    "visitors": 4437215
+  },
+  {
+    "name": "Saguaro",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Saguaronationalparl17102008.jpg/200px-Saguaronationalparl17102008.jpg",
+    "location": "Arizona",
+    "dateFounded": "1994-10-14",
+    "area": 91715.72,
+    "visitors": 964760
+  },
+  {
+    "name": "Sequoia",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Giant_Forest.jpg/200px-Giant_Forest.jpg",
+    "location": "California",
+    "dateFounded": "1890-09-25",
+    "area": 404062.63,
+    "visitors": 1291256
+  },
+  {
+    "name": "Shenandoah",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Early_Fall_at_Dark_Hollow_Falls_%2822028259442%29.jpg/200px-Early_Fall_at_Dark_Hollow_Falls_%2822028259442%29.jpg",
+    "location": "Virginia",
+    "dateFounded": "1935-12-26",
+    "area": 199217.77,
+    "visitors": 1458874
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Theodore_Roosevelt_National_Park.jpg/200px-Theodore_Roosevelt_National_Park.jpg",
+    "location": "North Dakota",
+    "dateFounded": "1978-11-10",
+    "area": 70446.89,
+    "visitors": 708003
+  },
+  {
+    "name": "Virgin Islands",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/St_John_Trunk_Bay_1.jpg/200px-St_John_Trunk_Bay_1.jpg",
+    "location": "United States Virgin Islands",
+    "dateFounded": "1956-08-02",
+    "area": 14940,
+    "visitors": 304408
+  },
+  {
+    "name": "Voyageurs",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Voyageurs_National_Park.jpg/200px-Voyageurs_National_Park.jpg",
+    "location": "Minnesota",
+    "dateFounded": "1971-01-08",
+    "area": 218200.15,
+    "visitors": 237250
+  },
+  {
+    "name": "Wind Cave",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Wind_Cave_lower.jpg/200px-Wind_Cave_lower.jpg",
+    "location": "South Dakota",
+    "dateFounded": "1903-01-09",
+    "area": 33970.84,
+    "visitors": 619924
+  },
+  {
+    "name": "Wrangell–St. Elias",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MountJarvis.jpg/200px-MountJarvis.jpg",
+    "location": "Alaska",
+    "dateFounded": "1980-12-02",
+    "area": 8323146.48,
+    "visitors": 68292
+  },
+  {
+    "name": "Yellowstone",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Grand_Prismatic_Spring_and_Midway_Geyser_Basin_from_above.jpg/200px-Grand_Prismatic_Spring_and_Midway_Geyser_Basin_from_above.jpg",
+    "location": "Wyoming, Montana, Idaho",
+    "dateFounded": "1872-03-01",
+    "area": 2219790.71,
+    "visitors": 4116524
+  },
+  {
+    "name": "Yosemite",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/YosemitePark2_amk.jpg/200px-YosemitePark2_amk.jpg",
+    "location": "California",
+    "dateFounded": "1890-10-01",
+    "area": 761747.5,
+    "visitors": 4336890
+  },
+  {
+    "name": "Zion",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angels_Landing.jpg/200px-Angels_Landing.jpg",
+    "location": "Utah",
+    "dateFounded": "1919-11-19",
+    "area": 147237.02,
+    "visitors": 4504812
+  }
+]
